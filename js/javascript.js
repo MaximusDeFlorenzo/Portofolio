@@ -14,7 +14,7 @@ toggle.onclick = function() {
 
 // Animated Writing Text
 var typed = new Typed(".auto-type", {
-    strings: ["Freelancer", "UI/UX Designer", "Backend Developer", "Youtuber"],
+    strings: ["Freelancer", "UI/UX Designer", "Backend Developer", "Full Stack Developer"],
     typeSpeed: 120,
     backSpeed: 35,
     loop: true
